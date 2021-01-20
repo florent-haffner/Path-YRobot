@@ -1,0 +1,5 @@
+## Env
+__pycache__/
+.vscode/
+.videa/
+.DS_Store
