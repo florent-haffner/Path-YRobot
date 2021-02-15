@@ -1,5 +1,7 @@
 ## Env
 __pycache__/
+.ipynb_checkpoints
+
 .vscode/
 .videa/
 .DS_Store
